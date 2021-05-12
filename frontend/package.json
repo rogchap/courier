@@ -16,7 +16,7 @@
     "@rollup/plugin-node-resolve": "^8.0.0",
     "@webcomponents/webcomponentsjs": "^2.5.0",
     "core-js": "^3.6.5",
-    "postcss": "^8.1.7",
+    "postcss": "^8.2.10",
     "postcss-css-variables": "^0.17.0",
     "rollup": "^2.3.4",
     "rollup-plugin-babel": "^4.4.0",
